@@ -131,3 +131,4 @@ dmypy.json
 # Personal file
 /mapbox/config.py
 /gmaps/config.js
+/geopands/data/US_County_Boundaries.zip
